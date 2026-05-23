@@ -1,0 +1,24 @@
+.wishlist-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: var(--shadow-sm);
+  color: var(--color-text-muted);
+  transition: color 0.2s, transform 0.2s;
+}
+
+.wishlist-btn:hover {
+  color: var(--color-accent);
+}
+
+.wishlist-btn.is-active {
+  color: var(--color-accent);
+}
+
+.wishlist-btn.is-animating {
+  transform: scale(1.2);
+}

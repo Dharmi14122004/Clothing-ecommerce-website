@@ -1,0 +1,7 @@
+[
+  {"id": 1, "productId": 1, "userName": "Rahul S.", "rating": 5, "comment": "Perfect fit and great fabric quality!", "createdAt": "2026-04-10T10:00:00Z"},
+  {"id": 2, "productId": 1, "userName": "Priya M.", "rating": 4, "comment": "Love the color, runs slightly large.", "createdAt": "2026-04-15T14:30:00Z"},
+  {"id": 3, "productId": 7, "userName": "Ananya K.", "rating": 5, "comment": "Stunning dress, got so many compliments!", "createdAt": "2026-05-01T09:00:00Z"},
+  {"id": 4, "productId": 3, "userName": "Vikram P.", "rating": 5, "comment": "Premium blazer, worth every penny.", "createdAt": "2026-05-05T16:00:00Z"},
+  {"id": 5, "productId": 8, "userName": "Sneha R.", "rating": 4, "comment": "Comfortable and stylish trousers.", "createdAt": "2026-05-12T11:00:00Z"}
+]

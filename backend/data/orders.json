@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "productId": 7,
+        "name": "Silk Midi Dress",
+        "size": "XS",
+        "color": "Champagne",
+        "quantity": 1,
+        "price": 149.99
+      }
+    ],
+    "customer": {
+      "firstName": "dharmi",
+      "lastName": "pip",
+      "email": "dharmipipaliya421@gmail.com",
+      "address": "abcd",
+      "city": "njio",
+      "zip": "360311",
+      "country": "United States"
+    },
+    "total": 159.98000000000002,
+    "status": "confirmed",
+    "createdAt": "2026-05-23T04:53:37.866Z"
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "productId": 1,
+        "name": "Classic Oxford Shirt",
+        "size": "S",
+        "color": "White",
+        "quantity": 1,
+        "price": 79.99
+      }
+    ],
+    "customer": {
+      "firstName": "dharmi",
+      "lastName": "pipaliya",
+      "email": "dharmipipaliya421@gmail.com",
+      "phone": "8401384119",
+      "address": "abcd",
+      "city": "ABCD",
+      "zip": "123456",
+      "country": "United States"
+    },
+    "total": 89.97999999999999,
+    "coupon": null,
+    "discount": 0,
+    "userId": 1,
+    "payment": {
+      "paymentId": "PAY1779512879337838",
+      "method": "upi",
+      "amount": 89.97999999999999,
+      "status": "paid",
+      "maskedDetail": "dharmi@upi",
+      "paidAt": "2026-05-23T05:07:59.337Z"
+    },
+    "status": "confirmed",
+    "tracking": [
+      {
+        "status": "placed",
+        "label": "Order Placed",
+        "done": true,
+        "date": "2026-05-23T05:07:59.351Z"
+      },
+      {
+        "status": "confirmed",
+        "label": "Confirmed",
+        "done": true,
+        "date": "2026-05-23T05:07:59.351Z"
+      },
+      {
+        "status": "packed",
+        "label": "Packed",
+        "done": true,
+        "date": "2026-05-23T06:07:59.351Z"
+      },
+      {
+        "status": "shipped",
+        "label": "Shipped",
+        "done": true,
+        "date": "2026-05-24T05:07:59.351Z"
+      },
+      {
+        "status": "out_for_delivery",
+        "label": "Out for Delivery",
+        "done": false,
+        "date": null
+      },
+      {
+        "status": "delivered",
+        "label": "Delivered",
+        "done": false,
+        "date": null
+      }
+    ],
+    "createdAt": "2026-05-23T05:07:59.351Z"
+  },
+  {
+    "id": 3,
+    "items": [
+      {
+        "productId": 3,
+        "name": "Wool Blend Blazer",
+        "size": "S",
+        "color": "Charcoal",
+        "quantity": 1,
+        "price": 189.99
+      }
+    ],
+    "customer": {
+      "firstName": "dsds",
+      "lastName": "fsdf",
+      "email": "dharmipipaliya421@gmail.com",
+      "phone": "8401384119",
+      "address": "abcd",
+      "city": "dfgh",
+      "zip": "123456",
+      "country": "United States"
+    },
+    "total": 189.99,
+    "coupon": null,
+    "discount": 0,
+    "userId": null,
+    "payment": {
+      "paymentId": "PAY1779513818269869",
+      "method": "upi",
+      "amount": 189.99,
+      "status": "paid",
+      "maskedDetail": "dharmi@upi",
+      "paidAt": "2026-05-23T05:23:38.269Z"
+    },
+    "status": "confirmed",
+    "tracking": [
+      {
+        "status": "placed",
+        "label": "Order Placed",
+        "done": true,
+        "date": "2026-05-23T05:23:38.288Z"
+      },
+      {
+        "status": "confirmed",
+        "label": "Confirmed",
+        "done": true,
+        "date": "2026-05-23T05:23:38.288Z"
+      },
+      {
+        "status": "packed",
+        "label": "Packed",
+        "done": true,
+        "date": "2026-05-23T06:23:38.288Z"
+      },
+      {
+        "status": "shipped",
+        "label": "Shipped",
+        "done": true,
+        "date": "2026-05-24T05:23:38.288Z"
+      },
+      {
+        "status": "out_for_delivery",
+        "label": "Out for Delivery",
+        "done": false,
+        "date": null
+      },
+      {
+        "status": "delivered",
+        "label": "Delivered",
+        "done": false,
+        "date": null
+      }
+    ],
+    "createdAt": "2026-05-23T05:23:38.288Z"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "dharmi",
+    "email": "dharmipipaliya421@gmail.com",
+    "password": "$2a$10$kHlYjdfeX8fxT//oSo4QGODUat7uzhBq3egRRSaYi8b9rMM.3Jlx2",
+    "createdAt": "2026-05-23T04:52:37.781Z",
+    "wishlist": [
+      1
+    ]
+  }
+]

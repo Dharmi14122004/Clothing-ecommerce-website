@@ -1,0 +1,32 @@
+[
+  {
+    "code": "MODA10",
+    "description": "10% off on orders above $50",
+    "type": "percent",
+    "value": 10,
+    "minOrder": 50,
+    "maxDiscount": 30
+  },
+  {
+    "code": "FIRST20",
+    "description": "20% off for first order",
+    "type": "percent",
+    "value": 20,
+    "minOrder": 75,
+    "maxDiscount": 50
+  },
+  {
+    "code": "FLAT15",
+    "description": "$15 off on orders above $100",
+    "type": "flat",
+    "value": 15,
+    "minOrder": 100
+  },
+  {
+    "code": "FREESHIP",
+    "description": "Free shipping on any order",
+    "type": "shipping",
+    "value": 0,
+    "minOrder": 0
+  }
+]
