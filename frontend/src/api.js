@@ -1,4 +1,4 @@
-const API = import.meta.env.VITE_API_URL || "/api";
+const API = "https://moda-backend-dlfh.onrender.com/api";
 const TOKEN_KEY = "moda-token";
 
 export function getToken() {
